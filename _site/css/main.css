@@ -2305,8 +2305,8 @@ table tr, table td {
   height: 200px;
   border: 3px solid #f2cb6b;
   overflow: hidden;
-  display: inline-block;
-  margin: auto; }
+  display: block;
+  margin: 20px auto; }
 
 .client-image {
   max-width: 200px; }
@@ -2314,14 +2314,15 @@ table tr, table td {
 .about-container {
   display: flex;
   justify-content: center;
-  padding: 0px 10px 40px;
-  font-size: 18px; }
+  padding: 0px 20px 40px;
+  font-size: 16px; }
   .about-container div {
     display: flex; }
 
 .about-text {
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;
+  text-align: center; }
   .about-text p {
     vertical-align: middle;
     margin: auto 0;
@@ -2334,7 +2335,14 @@ table tr, table td {
     padding-top: 20px; }
 
 .contact-text {
-  margin: auto; }
+  font-size: 2rem;
+  margin-bottom: 10px;
+  text-align: center; }
+
+.headshot-name {
+  font-size: 2rem;
+  font-weigh: 200;
+  text-transform: uppercase; }
 
 .footer {
   background: black;
