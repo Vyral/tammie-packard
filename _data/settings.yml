@@ -66,7 +66,7 @@ second_sidebar_CTA:
 lender:
   show_section: true
   header_text: Preferred Lender
-  headshot_path: /img/lender.jpg
+  headshot_path: /img/lender.JPG
   logo_path: /img/waterstone.png
   name: Karen Johnson
   license_number: NMLS 289594
