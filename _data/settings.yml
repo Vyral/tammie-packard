@@ -65,7 +65,7 @@ second_sidebar_CTA:
     CTA_url2: 'https://www.teamcentralflorida.com/listings-search/'
 lender:
   show_section: true
-  header_text: Preferred Lender
+  header_text: Local Lender
   headshot_path: /img/lender.JPG
   logo_path: /img/waterstone.png
   name: Karen Johnson
