@@ -20,4 +20,4 @@ youtube_code: 'https://youtu.be/pbHnsH5lSJc'
 
 Dave loves desserts, so he’ll be among the judges when it comes to deciding which dessert is the tastiest. There will also be door prizes available, not to mention food, fun, and company.
 
-**To register, [click](__notset__)**[**here**](__notset__). If you have any questions about this upcoming event, don’t hesitate to reach out to us. We hope to see you there\!
+**To register, <u><a target="_blank" href="https://www.eventbrite.com/e/first-annual-around-the-harbour-registration-68599891121">click here</a></u>**. If you have any questions about this upcoming event, don’t hesitate to reach out to us. We hope to see you there\!
