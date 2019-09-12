@@ -24,7 +24,7 @@ Today I’m joined by Karen Johnson of Waterstone Mortgage to answer a few quick
 
 **First, why is it important to get pre-approved?**
 
-According to Karen, getting pre-approved instead of just pre-qualified means all of your documentation will be reviewed and you’ll get an accurate estimate of your capability to obtain a mortgage loan. Your lender will check your income documents and asset documents to make sure you can from point A to point B (the closing) without any issues.
+According to Karen, getting pre-approved instead of just pre-qualified means all of your documentation will be reviewed and you’ll get an accurate estimate of your capability to obtain a mortgage loan. Your lender will check your income documents and asset documents to make sure you can get from point A to point B (the closing) without any issues.
 
 {% include pullquote.html %}
 
@@ -37,3 +37,5 @@ Yes—Karen can gain verbal information from a buyer, but once she reviews the d
 In this case, the buyer might get very excited about making an offer on a home only to discover that they don’t even qualify to buy it. When this happens, everyone involved in the situation is impacted, including the listing agent.&nbsp;
 
 If you have any further mortgage questions and you’d like to get in touch with Karen, you can give her a call at (407) 645-6360 or email her at [Kjohnson@waterstonemortgage.com](mailto:Kjohnson@waterstonemortgage.com).
+
+And, as always, if you'd like to speak to me about any of your other real estate needs, feel free to reach out. I look forward to hearing from you soon.
