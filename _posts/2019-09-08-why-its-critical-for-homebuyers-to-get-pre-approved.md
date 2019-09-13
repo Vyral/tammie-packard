@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/tammie-pickard---what-a-pre-approval-can-mean-for-your-home-purchase-youtube.jpg
-youtube_code: 'https://youtu.be/m1DcAlYaQf4'
+youtube_code: 'https://youtu.be/1wHzONgvrqk'
 ---
 
 {% include youtube.html %}
