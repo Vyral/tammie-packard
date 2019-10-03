@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/FlJZhhMJsWs'
 
 Interest rates are a hot-button issue in today’s real estate market. Buyers, sellers, and homeowners alike have a lot of questions about the subject.&nbsp;
 
-So, in order to clarify a few things, I recently spoke with financing expert Karen Johnson of Waterstone Mortgage about this topic, exactly, and I’m excited to share a few highlights from our discussion with you today.
+So, in order to clarify a few things, I recently spoke with financing expert Karen Johnson of Waterstone Mortgage about this topic, and I’m excited to share a few highlights from our discussion with you today.
 
 The first question we tackled is one buyers ask me all the time, **“Is there a one-size-fits-all interest rate?”** Karen’s answer to this was simple: no. The interest rate a buyer secures on their mortgage will vary depending on a number of factors, like their credit score, the amount they plan to put down, the loan program they’re using, and the state of the market.&nbsp;
 
