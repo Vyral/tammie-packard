@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/tammie-pickard---how-accurate-are-zillows-zestimates-youtube.jpg
-youtube_code: 'https://youtu.be/8LREA4l9x-4'
+youtube_code: 'https://youtu.be/tbQcsQZ6IP8'
 ---
 
 {% include youtube.html %}
