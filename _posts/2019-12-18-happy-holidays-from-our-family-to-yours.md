@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Happy Holidays, From Our Family to Yours'
-date: 2019-12-18 21:15:15
+date: 2019-12-18 21:15:00
 tags:
   - Real Estate
 excerpt: We want to wish you and your family a happy holiday season!
@@ -17,6 +17,8 @@ youtube_code: XTQfgViPXc8
 
 {% include youtube.html %}
 
-&nbsp;It’s that time of year again, and we at Team Central Florida want to wish you and your loved ones a happy holiday season. We also want to thank you for all the business you sent our way in 2019. We plan on continuing to help as many families as we can in 2020. In the meantime, have a happy new year, and we wish you a merry Christmas.
+&nbsp;It’s that time of year again, and we at Team Central Florida want to wish you and your loved ones a happy holiday season. We also want to thank you for all the business you sent our way in 2019.
+
+We plan on continuing to help as many families as we can in 2020. In the meantime, have a happy new year, and we wish you a merry Christmas.
 
 &nbsp;
