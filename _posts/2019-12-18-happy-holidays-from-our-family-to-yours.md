@@ -17,7 +17,7 @@ youtube_code: XTQfgViPXc8
 
 {% include youtube.html %}
 
-*We want to wish you and your family a happy holiday season\!*
+<p style="text-align: center;"><em>We want to wish you and your family a happy holiday season!</em></p>
 
 &nbsp;It’s that time of year again, and we at Team Central Florida want to wish you and your loved ones a happy holiday season. We also want to thank you for all the business you sent our way in 2019.
 
