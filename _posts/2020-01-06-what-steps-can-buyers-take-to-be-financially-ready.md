@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Steps Can Buyers Take to Be Financially Ready?
-date: 2020-01-06 23:28:07
+date: 2020-01-06 23:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
