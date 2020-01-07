@@ -22,6 +22,8 @@ youtube_code: 0q-JRn-o02s
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>What is an underwriter looking for? Karen Johnson of Waterstone Mortgage offers some answers.</em></p>
+
 Today I’m joined by Karen Johnson of Waterstone Mortgage, who has some excellent tips to help buyers prepare their finances for a big purchase in this new year. Following Karen’s advice can help you navigate a market of low inventory and frequent multiple-offer situations.&nbsp;
 
 First, it’s helpful to ask yourself, “What is an underwriter looking for?” Basically, they’ll want to see a credit history that shows you’re able to make payments on time. They’ll also be looking at your income sources to determine whether you’re even able to make the expected payments. Lastly, they want to see that you have enough funds to cover a down payment and closing costs.&nbsp;
